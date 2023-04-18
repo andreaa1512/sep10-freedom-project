@@ -3,4 +3,4 @@
 <h3> MVP: have everything already on the website. In order and in working order.
 
 <h4> 4/17-4/21 : input basic information </h4>
-<h4> 
+<h4> 4/25-5/1: fix information to model </h4>
