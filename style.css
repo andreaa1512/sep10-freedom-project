@@ -6,7 +6,25 @@ body{
     padding: 20px;
 }
 
-p-1{
-    font-size: x-large;
+p {
+   font-size: x-large;
 }
 
+p {
+    border-radius: 10px;
+    border-style: solid;
+    padding: 20px;
+    border-color: white;
+}
+
+image {
+    border-radius: 10px;
+    border-style: solid;
+    padding: 20px;
+    border-color: #ffb6c1
+}
+
+.container{
+    font-size: x-large;
+    text-align: center;
+}
